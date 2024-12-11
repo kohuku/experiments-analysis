@@ -1,0 +1,72 @@
+Copy
+1MB : 0.000041 second
+2MB : 0.000017 second
+4MB : 0.000037 second
+8MB : 0.000075 second
+16MB : 0.000131 second
+32MB : 0.000939 second
+64MB : 0.001894 second
+128MB : 0.003662 second
+256MB : 0.008006 second
+512MB : 0.014369 second
+1024MB : 0.028569 second
+2048MB : 0.058217 second
+4096MB : 0.119290 second
+8192MB : 0.239871 second
+16384MB : 0.470780 second
+32768MB : 0.936628 second
+
+Scale
+1MB : 0.000010 second
+2MB : 0.000019 second
+4MB : 0.000041 second
+8MB : 0.000086 second
+16MB : 0.000170 second
+32MB : 0.000968 second
+64MB : 0.002028 second
+128MB : 0.003955 second
+256MB : 0.007700 second
+512MB : 0.015448 second
+1024MB : 0.031091 second
+2048MB : 0.062347 second
+4096MB : 0.124345 second
+8192MB : 0.250467 second
+16384MB : 0.498440 second
+32768MB : 0.996959 second
+
+Add
+1MB : 0.000012 second
+2MB : 0.000026 second
+4MB : 0.000059 second
+8MB : 0.000115 second
+16MB : 0.000240 second
+32MB : 0.001503 second
+64MB : 0.002902 second
+128MB : 0.005481 second
+256MB : 0.010761 second
+512MB : 0.021372 second
+1024MB : 0.043190 second
+2048MB : 0.087018 second
+4096MB : 0.177343 second
+8192MB : 0.353154 second
+16384MB : 0.706064 second
+32768MB : 1.410217 second
+
+Triad
+1MB : 0.000012 second
+2MB : 0.000028 second
+4MB : 0.000057 second
+8MB : 0.000119 second
+16MB : 0.000260 second
+32MB : 0.001486 second
+64MB : 0.002849 second
+128MB : 0.005404 second
+256MB : 0.010662 second
+512MB : 0.021335 second
+1024MB : 0.042618 second
+2048MB : 0.086677 second
+4096MB : 0.173956 second
+8192MB : 0.348935 second
+16384MB : 0.692576 second
+32768MB : 1.377330 second
+

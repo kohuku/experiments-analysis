@@ -1,0 +1,5 @@
+Operation,Average (seconds),Minimum (seconds),Maximum (seconds)
+Copy0,0.007246,0.007220,0.007289
+Scale0,0.007579,0.007538,0.007626
+Add0,0.010713,0.010632,0.010823
+Triad0,0.010621,0.010572,0.010658
